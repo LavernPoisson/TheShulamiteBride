@@ -160,7 +160,7 @@ footer {
     justify-content: space-around;
 
     margin-top: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 120px;
 
     border-top-width: 1px;
     border-top-color: black;
@@ -229,4 +229,5 @@ footer {
     .post-title {
         font-size: 2.5rem;
     }
+
 }
