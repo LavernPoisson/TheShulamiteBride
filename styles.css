@@ -501,6 +501,7 @@ footer {
     width: 100%;
     justify-content: space-between;
     flex-wrap: wrap;
+    margin-bottom: 80px;
 }
 
 footer .footer-text {
@@ -873,5 +874,6 @@ footer .footer-text .links .link {
         width: 100%;
         height: 200px;
     }
+
 
 }
